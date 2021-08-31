@@ -2,12 +2,8 @@
   "name": "logutils",
   "version": "1.0.0",
   "description": "Utility for Quixel Backend Services logging needs",
-  "main": "test.js",
   "directories": {
     "lib": "lib"
-  },
-  "scripts": {
-    "test": "node test.js"
   },
   "author": "Irfan Azam",
   "license": "ISC",
