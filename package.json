@@ -1,0 +1,26 @@
+{
+  "name": "logutils",
+  "version": "1.0.0",
+  "description": "Utility for Quixel Backend Services logging needs",
+  "main": "test.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Irfan Azam",
+  "license": "ISC",
+  "dependencies": {
+    "confit": "^2.0.3",
+    "lodash": "^4.17.15",
+    "pino": "^5.16.0",
+    "selectn": "^1.1.2",
+    "pino-pretty": "^6.0.0",
+    "bluebird": "^3.4.7",
+    "shortstop": "^1.0.1",
+    "shortstop-handlers": "^1.0.0",
+    "shortstop-resolve": "^1.0.1",
+    "confidence": "^4.0.2"
+  }
+}
