@@ -7,8 +7,8 @@ Reusable library for logging
   "logutils": "https://github.com/Quixel/logutils#master"
 
 - **How to use the logger?**
-  const logger = require('logutils/logger').logger;
-  logger.error(), logger.info() ....
+  - const logger = require('logutils/logger').logger;
+  - logger.error(), logger.info() ....
 
 - **How to use the logging plugins?**
   {
