@@ -12,9 +12,6 @@ Reusable library for logging
 
 - **How to use the logging plugins?**
   {
-    plugin: require('logutils/plugins/checkIsError'),
-  },
-  {
     plugin: require('logutils/plugins/logError'),
   },
   {
